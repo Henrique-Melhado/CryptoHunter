@@ -41,4 +41,4 @@ Esta opção pula a verificação de atividade do host antes de iniciar a varred
 
 <img width="600" height="300" src="https://github.com/Henrique-Melhado/CryptoHunter/blob/main/Screenshot%202025-10-31%20at%2009.12.34.png?raw=true" img>
 
- ```API Is down ;/```
+ ```Crimeflare API Is down ;/```
