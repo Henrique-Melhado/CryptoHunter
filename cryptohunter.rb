@@ -31,7 +31,7 @@ def print_banner
  |_||_\\___/__/ \\__\\___/ |_||_|_| |_| \\___|\\__|
   #{Colors::RESET}
   #{Colors::YELLOW}HostHunter - Ferramenta de Enumeração DNS e Varredura de Portas#{Colors::RESET}
-  #{Colors::MAGENTA}Versão Aprimorada por Manus#{Colors::RESET}
+  #{Colors::MAGENTA}Criado por Crypto (CyberSecurity specialist)#{Colors::RESET}
   "
 end
 
