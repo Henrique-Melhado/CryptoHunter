@@ -1,6 +1,6 @@
 # Crypto Hunter Script
 
-<img src="https://media.discordapp.net/attachments/1433874664706539601/1433875826591531140/Screenshot_2025-10-31_at_07.44.12.png?ex=6906486d&is=6904f6ed&hm=f778f71624ab6fd08292254ed72acc72d87df1cbace5eb665ec5dd463fbaa89b&=&format=webp&quality=lossless&width=688&height=341" img>
+<img src="https://media.discordapp.net/attachments/1433874664706539601/1433876177570889851/Screenshot_2025-10-31_at_07.50.11.png?ex=690648c0&is=6904f740&hm=51dba902c9d21f605f94d4523fa9ef0cd88bcac0edaf2d99bfc1ca2067e3ba96&=&format=webp&quality=lossless&width=1354&height=704" img>
 - Dns enum com ruby
 - Host Port scanner added
 - Whois Added
