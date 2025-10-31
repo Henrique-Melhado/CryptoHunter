@@ -16,7 +16,15 @@ puts "#{green}This tool is rather simple, it uses CrimeFlare to allow a bypass t
 puts "\n"
 puts "\n"
 puts "#{red}[!]This is a re-written version of the popular tool called 'HatCloud'. Many of the bugs have been fixed!"
-
+puts " /      \           /  |                        /        |/  |
+/$$$$$$  |  ______  $$/  _____  ____    ______  $$$$$$$$/ $$ |  ______    ______    ______  
+$$ |  $$/  /      \ /  |/     \/    \  /      \ $$ |__    $$ | /      \  /      \  /      \ 
+$$ |      /$$$$$$  |$$ |$$$$$$ $$$$  |/$$$$$$  |$$    |   $$ | $$$$$$  |/$$$$$$  |/$$$$$$  |
+$$ |   __ $$ |  $$/ $$ |$$ | $$ | $$ |$$    $$ |$$$$$/    $$ | /    $$ |$$ |  $$/ $$    $$ |
+$$ \__/  |$$ |      $$ |$$ | $$ | $$ |$$$$$$$$/ $$ |      $$ |/$$$$$$$ |$$ |      $$$$$$$$/ 
+$$    $$/ $$ |      $$ |$$ | $$ | $$ |$$       |$$ |      $$ |$$    $$ |$$ |      $$       |
+ $$$$$$/  $$/       $$/ $$/  $$/  $$/  $$$$$$$/ $$/       $$/  $$$$$$$/ $$/        $$$$$$$/ \e[0;0m \03>
+"
 puts "\n"
 puts "#{green}Get Commands:"
 puts "#{green}-h - Get the help for commands"
