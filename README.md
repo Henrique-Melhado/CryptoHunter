@@ -3,8 +3,8 @@
 - Dns enum com ruby
 - Host Port scanner added
 
-- 
-- Requirements 
+ 
+# Requirements 
 - Ruby
 - gem install whois json net-http-persistent
 - sudo gem install whois json net-http-persistent
