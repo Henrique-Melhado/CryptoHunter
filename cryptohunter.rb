@@ -30,7 +30,7 @@ def print_banner
  | __ / -_|_-<|  _/ _ \\ | __ | '_| '_/ -_)  _|
  |_||_\\___/__/ \\__\\___/ |_||_|_| |_| \\___|\\__|
   #{Colors::RESET}
-  #{Colors::YELLOW}HostHunter - Ferramenta de Enumeração DNS e Varredura de Portas#{Colors::RESET}
+  #{Colors::YELLOW}CryptoHunter - Ferramenta de Enumeração DNS e Varredura de Portas#{Colors::RESET}
   #{Colors::MAGENTA}Criado por Crypto (CyberSecurity specialist)#{Colors::RESET}
   "
 end
