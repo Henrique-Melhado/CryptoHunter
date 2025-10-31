@@ -3,15 +3,19 @@
 
 
 - Enumeração DNS
+  
 ./cryptohunter.rb -d exemplo.com
 
-- Varredura de Portas/n
+- Varredura de Portas
+
 ./cryptohunter.rb -h 192.168.1.1 -p 80,443,8080
 
-- Consulta WHOIS/n
+- Consulta WHOIS
+  
 ./cryptohunter.rb -w exemplo.com
 
-- Geolocalização de IP /n
+- Geolocalização de IP
+  
 ./cryptohunter.rb -g 8.8.8.8
 
 
