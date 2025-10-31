@@ -2,16 +2,16 @@
 
 
 ###
-Exemplo de Enumeração DNS\n
+Exemplo de Enumeração DNS/n
 ./cryptohunter.rb -d exemplo.com
 
-Exemplo de Varredura de Portas\n
+- Varredura de Portas/n
 ./cryptohunter.rb -h 192.168.1.1 -p 80,443,8080
 
-Exemplo de Consulta WHOIS\n 
+- Consulta WHOIS/n
 ./cryptohunter.rb -w exemplo.com
 
-Exemplo de Geolocalização de IP \n
+- Geolocalização de IP /n
 ./cryptohunter.rb -g 8.8.8.8
 
 ###
