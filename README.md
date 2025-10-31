@@ -6,7 +6,8 @@
 - Host Port scanner added
 - Whois Added
 - Geolocation Added
- 
+- Funcionalidade Adicionada -P ou --skip-ping: Esta opção pula a verificação de atividade do host antes de iniciar a varredura de portas. Isso é útil quando o host bloqueia pacotes ICMP (ping) ou outras tentativas de verificação de atividade, mas você ainda quer tentar escanear as portas.
+
 # Requirements 
 - Ruby
 - gem install whois json net-http-persistent
@@ -23,6 +24,9 @@
 
 ```./cryptohunter.rb -h 192.168.1.1 -p 80,443,8080```
 
+- Varredura de Portas sem ping
+``` ./cryptohunter.rb -h [HOST] -p [PORTAS] -P ```
+
 - Consulta WHOIS
   
 ```./cryptohunter.rb -w exemplo.com```
@@ -30,3 +34,4 @@
 - Geolocalização de IP
 
 ```./cryptohunter.rb -g 8.8.8.8```
+
