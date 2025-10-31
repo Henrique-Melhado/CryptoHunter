@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby
 
 require 'resolv'
-
+# dns enumeration script simples
 def enumerate_dns(domain)
   puts "Starting DNS enumeration for #{domain}..."
 
