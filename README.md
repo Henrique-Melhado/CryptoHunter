@@ -6,7 +6,9 @@
 - Host Port scanner added
 - Whois Added
 - Geolocation Added
-- Funcionalidade Adicionada -P ou --skip-ping: Esta opção pula a verificação de atividade do host antes de iniciar a varredura de portas. Isso é útil quando o host bloqueia pacotes ICMP (ping) ou outras tentativas de verificação de atividade, mas você ainda quer tentar escanear as portas.
+- Funcionalidade Adicionada -P ou --skip-ping: 
+
+Esta opção pula a verificação de atividade do host antes de iniciar a varredura de portas. Isso é útil quando o host bloqueia pacotes ICMP (ping) ou outras tentativas de verificação de atividade, mas você ainda quer tentar escanear as portas.
 
 # Requirements 
 - Ruby
