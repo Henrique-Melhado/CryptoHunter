@@ -4,7 +4,7 @@
 
 ## Enumeração DNS
   
-./cryptohunter.rb -d exemplo.com
+```./cryptohunter.rb -d exemplo.com```
 
 ## Varredura de Portas
 
